@@ -2,7 +2,7 @@
 
 Resources to help developers sell their ideas and increase their earning potential.
 
-Sales doesn't have to be a dirty word. it can get your startup funding, land you business, 
+Sales doesn't have to be a dirty word. Being good at sales can get your startup funding, land you business if you're an independent developer, help you negotiate a rase, get a job, get your SaaS business off the ground, and help with almost every aspect of life.  
 
 ## Contents
 
@@ -14,7 +14,12 @@ Sales doesn't have to be a dirty word. it can get your startup funding, land you
 
 ## Courses
 
+- ["Free Online Sales Courses | Alison"](https://alison.com/courses/sales)
+
 ## Articles
+
+- ["SaaS Sales: The Ultimate Guide"](https://blog.hubspot.com/sales/saas-sales-ultimate-guide)
+- ["A Beginner’s Guide to SaaS Sales"](https://mailshake.com/blog/saas-sales/)
 
 ## Videos
 
@@ -23,6 +28,11 @@ Sales doesn't have to be a dirty word. it can get your startup funding, land you
 
 
 ## Books
+
+- ["How to Win Friends and Influence People" by Dale Carnegie"](https://www.amazon.ca/How-Win-Friends-Influence-People/dp/0671027034)
+- ["Emotional Intelligence: Why It Can Matter More Than IQ" by "Daniel Goleman"](https://www.danielgoleman.info/books/emotional-intelligence/)
+- ["Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant" by "Chan Kim && Renée Mauborgne"](https://www.blueoceanstrategy.com/)
+- 
 
 
 ## Contributing
