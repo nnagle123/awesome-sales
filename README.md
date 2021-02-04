@@ -10,17 +10,23 @@ Sales doesn't have to be a dirty word. Being good at sales can get your startup 
 - [Articles](#Articles)
 - [Videos](#Videos)
 - [Books](#Books)
+- [Contribute](#Contribute)
+- [License](#License)
 
 
-## Courses
+## Free Courses
 
 - ["Free Online Sales Courses | Alison"](https://alison.com/courses/sales)
+- ["Successful Negotiation: Essential Strategies and Skills - University of Michigan - Coursera"](https://www.coursera.org/learn/negotiation-skills)
+- ["Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator"](https://www.coursera.org/learn/negotiation)
 
 
 ## Articles
 
 - ["SaaS Sales: The Ultimate Guide"](https://blog.hubspot.com/sales/saas-sales-ultimate-guide)
 - ["A Beginner’s Guide to SaaS Sales"](https://mailshake.com/blog/saas-sales/)
+- ["6 Reasons Why You Should be Pursuing a Career in Tech Sales"](https://www.rainmakers.co/blog/tech-sales-career/)
+
 
 ## Videos
 
@@ -45,9 +51,9 @@ Sales doesn't have to be a dirty word. Being good at sales can get your startup 
 - ["How I Raised Myself From Failure to Success in Selling" by "Frank Bettger"](https://www.amazon.ca/Raised-Myself-Failure-Success-Selling/dp/067179437X)
 
 
-## Contributing
+## Contribute
 
-Feel free to open an issue (or even better, send a Pull Request) for expanding this list. Contributions are very welcome!! 😄
+Feel free to open an issue (or even better, send a Pull Request) for expanding this list. Contributions are very welcome!!
 
 
 ## License
