@@ -1,4 +1,4 @@
-# awesome-sales
+# awesome-sales [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
 Sales doesn't have to be a dirty word. Skilled sales personnel make your ideas become a reality, by subtly and skilfully doing what is needed to achieve the desired outcome. Being good at sales can secure your startup funding; get you that desired career opportunity and/or help negotiate a raise; and, land jobs and expand your business, to list a few benefits. 
 
