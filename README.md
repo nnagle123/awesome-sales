@@ -1,8 +1,9 @@
 # awesome-sales
 
-Resources to help developers sell their ideas and increase their earning potential.
+Sales doesn't have to be a dirty word. Skilled sales personnel make your ideas become a reality, by subtly and skilfully doing what is needed to achieve the desired outcome. Being good at sales can secure your startup funding; get you that desired career opportunity and/or help negotiate a raise; and, land jobs and expand your business, to list a few benefits. 
 
-Sales doesn't have to be a dirty word. Being good at sales can get your startup funding, land you business if you're an independent developer, help you negotiate a rase, get a job, get your SaaS business off the ground, and help with almost every aspect of life.  
+The following resources are to help developers sell their ideas, increase their earning potential and master the art of sales.
+
 
 ## Contents
 
