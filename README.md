@@ -1,4 +1,4 @@
-# awesome-sales [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# awesome-sales ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Sales doesn't have to be a dirty word. Skilled sales personnel make your ideas become a reality, by subtly and skilfully doing what is needed to achieve the desired outcome. Being good at sales can secure your startup funding; get you that desired career opportunity and/or help negotiate a raise; and, land jobs and expand your business, to list a few benefits. 
 
@@ -11,8 +11,6 @@ The following resources are to help developers sell their ideas, increase their 
 - [Articles](#Articles)
 - [Videos](#Videos)
 - [Books](#Books)
-- [Contribute](#Contribute)
-- [License](#License)
 
 
 ## Free Courses
@@ -52,6 +50,8 @@ The following resources are to help developers sell their ideas, increase their 
 - ["How I Raised Myself From Failure to Success in Selling" by "Frank Bettger"](https://www.amazon.ca/Raised-Myself-Failure-Success-Selling/dp/067179437X)
 
 
-## Contribute
 
-Feel free to open an issue (or even better, send a Pull Request) for expanding this list. Contributions are very welcome!!
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Nathan Nagle](http://www.natenagle.com) has waived all copyright and related or neighboring rights to this work.
+
